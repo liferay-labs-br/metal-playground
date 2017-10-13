@@ -1,4 +1,4 @@
-#This is the Metal.js Playground o/
+# This is the Metal.js Playground o/
 
 To build this project, follow this steps bellow:
 
@@ -14,7 +14,7 @@ npm install || yarn install
 npm run build
 ```
 
-##Contributing
+## Contributing
 
 You also can run this project in dev mode following this steps bellow:
 
